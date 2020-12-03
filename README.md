@@ -12,6 +12,7 @@ https://www.microsoft.com/store/productId/9NBLGGH4MSV6
 #Run Ubuntu
 
 #Set up Ubuntu
+Crate a new user name and password
 
 # If you have any issues just go through the microsoft link
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
